@@ -1,0 +1,10 @@
+# Write your answers to task3 below.
+# Do NOT remove or modify the question numbers.
+# Each answer should be kept on a single line.
+
+1.Nano
+2.nano hw1/animals.txt
+3.Ctrl + E then type animal
+4.Ctrl + A then type animal
+5.Ctrl + O
+6.Ctrl + X
